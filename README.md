@@ -1,3 +1,8 @@
+### 🧠 Author’s Note:
+I have **extended and customized** this implementation for my own experiments on **fine-tuning, evaluation, and visualization** of the Grounding DINO model on a custom dataset.  
+All my scripts are saved in the **`myscripts/`** folder.
+
+
 # CLIP
 
 [[Blog]](https://openai.com/blog/clip/) [[Paper]](https://arxiv.org/abs/2103.00020) [[Model Card]](model-card.md) [[Colab]](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb)
