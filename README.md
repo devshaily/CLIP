@@ -1,6 +1,5 @@
 ### 🧠 Author’s Note:
-I have **extended and customized** this implementation for my own experiments on **fine-tuning, evaluation, and visualization** of the Grounding DINO model on a custom dataset.  
-All my scripts are saved in the **`myscripts/`** folder.
+I have **extended and customized** this implementation for my own experiments on **fine-tuning, evaluation, and visualization** of the CLIP model on a custom dataset for classification of defect types vs non-defect. My training and testing scripts are named as CLIP.py, clip_test.py, clip-visual-test.py and clip_convert.py. The current directory holds the fine tuned weights, text features and embedding trained on my dataset
 
 
 # CLIP
